@@ -1,0 +1,19 @@
+# Standard ignores
+*.pyc
+*.pyo
+*.DS_Store
+*.swp
+*.idea
+*.project
+*.pydevproject
+*.kpf
+*.settings
+
+venv
+
+# vim backup files
+*~
+# OS generated files #
+######################
+.DS_Store?
+Thumbs.db
